@@ -16,7 +16,7 @@ setup(
     description="Web Server Pyramid for AnyBlok",
     license="MPL2",
     long_description='',
-    url="https://bitbucket.org/jsuzanne/anyblok.pyramid",
+    url="https://docs.anyblok-pyramid.anyblok.org/" + version,
     packages=find_packages(),
     zip_safe=False,
     include_package_data=True,
